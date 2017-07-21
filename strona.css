@@ -367,6 +367,16 @@ footer span {
 	font-size: 16px;
 }
 
+footer .fa {
+	color: #000;
+	font-size: 20px;
+}
+
+footer .fa:hover {
+	color: #6cc644;
+	font-size: 25px;
+}
+
 
 /*grid responsive solutions*/
 .row:before,
